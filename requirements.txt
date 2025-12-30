@@ -1,0 +1,6 @@
+opencv-python
+numpy
+mss
+pathlib
+pyautogui
+imutils
